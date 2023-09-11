@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute to Abdul Kalam</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    #header {
+      background-color: #909090;
+      color: #FFC0CB;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    #content {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color:#1338BE;
+      padding: 20px;
+      line-height: 1.5;
+      color:#FFFFFF
+    }
+    
+    #content img {
+      display: block;
+      margin: 0 auto 20px;
+      max-width: 100%;
+    }
+    
+    #footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+      font-size: 14px;
+    }
+   
+  </style>
+</head>
+<body>
+  <div id="header">
+    <h1>Tribute to Abdul Kalam</h1>
+  </div>
+  
+  <div id="content">
+    <img src="abdul_kalam.jpg" alt="Abdul Kalam">
+    <h2>Dr. A.P.J. Abdul Kalam</h2>
+    <p>
+      Dr. Avul Pakir Jainulabdeen Abdul Kalam, popularly known as Abdul Kalam, was a renowned Indian scientist and the 11th President of India. He was born on October 15, 1931, in Rameswaram, Tamil Nadu, and passed away on July 27, 2015.
+    </p>
+    <p>
+      Abdul Kalam played a key role in India's space and missile development programs. He is known as the "Missile Man of India" for his contributions to the development of ballistic missile and launch vehicle technology. He played a crucial role in the development of India's first satellite launch vehicle, the SLV-III, and the successful testing of nuclear weapons.
+    </p>
+    <p>
+      Apart from his scientific achievements, Abdul Kalam was also a great inspiration to the youth of India. He believed in the power of education and worked tirelessly to ignite the minds of young people. He often interacted with students and encouraged them to dream big and work hard to achieve their goals.
+    </p>
+    <p>
+      Abdul Kalam received numerous awards and honors, including the Bharat Ratna, India's highest civilian award, and the Padma Vibhushan. He was a respected figure both in India and internationally, and his humble and down-to-earth nature made him a beloved personality among the people.
+    </p>
+    <p>
+      Abdul Kalam's vision and leadership continue to inspire generations. His words and teachings still resonate with millions of people around the world. He truly epitomized the spirit of a great scientist, a visionary leader, and a true patriot.
+    </p>
+    <h2>Early Life and Education</h2>
+    <p>
+      Dr. Avul Pakir Jainulabdeen Abdul Kalam, popularly known as Abdul Kalam, was born on October 15, 1931, in Rameswaram, Tamil Nadu. He hailed from a modest family and had a humble upbringing. Despite facing financial constraints, he was a dedicated student and had a strong interest in science and technology from a young age.
+    </p>
+    
+    <h2>Scientific and Technological Achievements</h2>
+    <p>
+      Abdul Kalam played a pivotal role in India's space and missile development programs. He is often referred to as the "Missile Man of India" for his significant contributions in this field. He served as the chief architect of India's first indigenous Satellite Launch Vehicle (SLV-III) and played a crucial role in the successful testing of nuclear weapons.
+    </p>
+    
+    <h2>Presidency and Later Life</h2>
+    <p>
+      In 2002, Abdul Kalam became the 11th President of India, serving a term of five years. During his presidency, he focused on transforming India into a developed nation by 2020 through initiatives such as the "Vision 2020" plan. After his presidency, he continued to be actively involved in various educational and scientific endeavors, inspiring and mentoring countless students and researchers.
+    </p>
+    
+    <h2>Inspirational Figure</h2>
+    <p>
+      Abdul Kalam was not only a remarkable scientist but also an inspirational figure for millions of people. He believed in the power of education and youth in shaping the future of the nation. He often interacted with students, delivering lectures and encouraging them to dream big, work hard, and strive for excellence. His humility, simplicity, and dedication continue to inspire generations.
+    </p>
+    
+    
+    
+  </div>
+  
+  <div id="footer">
+    Tribute to Abdul Kalam | &copy; 2023 Manasa Sri Boina
+  </div>
+</body>
+</html>
